@@ -59,11 +59,12 @@ div {
 
 .bio-link {
     text-decoration: none;
-    color: orange;
+    color: tomato;
 }
 
 /* Footer styles */
 footer {
+    font-size: 15px;
     text-align: center;
     padding: 0;
     background-color: black;
